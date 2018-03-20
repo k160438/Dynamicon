@@ -1,0 +1,5 @@
+D:\Program Files\OneDrive - Personal\OneDrive\TODO\WinWallpaper\CommonUtils\bin\Debug\CommonUtils.dll
+D:\Program Files\OneDrive - Personal\OneDrive\TODO\WinWallpaper\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\Program Files\OneDrive - Personal\OneDrive\TODO\WinWallpaper\CommonUtils\obj\Debug\CommonUtils.csproj.CoreCompileInputs.cache
+D:\Program Files\OneDrive - Personal\OneDrive\TODO\WinWallpaper\CommonUtils\obj\Debug\CommonUtils.dll
+D:\Program Files\OneDrive - Personal\OneDrive\TODO\WinWallpaper\CommonUtils\obj\Debug\CommonUtils.pdb
